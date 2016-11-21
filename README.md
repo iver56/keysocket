@@ -5,6 +5,7 @@
 **Supported sites:**
    * Amazon music player
    * Bop
+   * Brain.fm
    * Deezer
    * Digitally Imported (di.fm)
    * Gaana.com
