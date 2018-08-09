@@ -1,8 +1,8 @@
 function onKeyPress(key) {
     if (key === NEXT) {
-        simulateClick(document.querySelector('#skip_button'));
+      simulateClick(document.querySelector('[class^="modules-music-player-css-Skip__skip__"]'));
     } else if (key === PLAY) {
-        simulateClick(document.querySelector('#player_circle'));
+        simulateClick(document.querySelector('[class^="modules-music-player-css-PlayControl__pause__"]'));
     } else if (key === PREV) {
         // N/A
     }
